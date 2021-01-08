@@ -1,2 +1,2 @@
-# cbnet.github.io
+# cbnet-id.github.io
 Landing Page CBNET
